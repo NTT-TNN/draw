@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-19T17:22:45.632Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="lKTqXU1SHA3dJJxqSdgE" version="12.4.3" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2019-12-19T17:25:01.499Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="sgcNI9B7oUCb6mgUGrb6" version="12.4.3" type="github" pages="2">
   <diagram id="S9bAF8Y2xewPEpYPeAAs" name="architecture">
-    <mxGraphModel dx="1864" dy="2149" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1553" dy="1986" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -30,6 +30,9 @@
         <mxCell id="KJewuH6JOESfiElqel58-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.271;exitY=-0.033;exitDx=0;exitDy=0;entryX=0.757;entryY=1.033;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;" parent="1" source="c5t16O94_06bRo73200G-5" target="KJewuH6JOESfiElqel58-9" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
+        <mxCell id="wAPQZnwlaJf_ykvROvv0-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.625;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="c5t16O94_06bRo73200G-5" target="wAPQZnwlaJf_ykvROvv0-3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="c5t16O94_06bRo73200G-5" value="App&lt;br&gt;Service" style="shape=hexagon;html=1;whiteSpace=wrap;perimeter=hexagonPerimeter;rounded=0;size=0.2857142857142857;" parent="1" vertex="1">
           <mxGeometry x="390" y="95" width="70" height="60" as="geometry"/>
         </mxCell>
@@ -54,8 +57,8 @@
         <mxCell id="KJewuH6JOESfiElqel58-9" value="Storage&lt;br&gt;Service" style="shape=hexagon;html=1;whiteSpace=wrap;perimeter=hexagonPerimeter;rounded=0;size=0.2857142857142857;" parent="1" vertex="1">
           <mxGeometry x="250" y="-50" width="70" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="KJewuH6JOESfiElqel58-16" value="Fabric&lt;br&gt;Service" style="shape=hexagon;html=1;whiteSpace=wrap;perimeter=hexagonPerimeter;rounded=0;size=0.2857142857142857;" parent="1" vertex="1">
-          <mxGeometry x="530" y="-50" width="70" height="60" as="geometry"/>
+        <mxCell id="KJewuH6JOESfiElqel58-16" value="Sawtooth proccoessor&amp;nbsp;&lt;br&gt;servoces" style="shape=hexagon;html=1;whiteSpace=wrap;perimeter=hexagonPerimeter;rounded=0;size=0.2857142857142857;" parent="1" vertex="1">
+          <mxGeometry x="650" y="-61" width="70" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="VyrKJFE40DiqVYURIyEz-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="VyrKJFE40DiqVYURIyEz-1" target="VyrKJFE40DiqVYURIyEz-3" edge="1">
           <mxGeometry relative="1" as="geometry"/>
@@ -68,6 +71,12 @@
         </mxCell>
         <mxCell id="EZ-6pBKwDiRtnUQuMYFM-1" value="V-chain &lt;br&gt;front-end" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="190" y="285" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="wAPQZnwlaJf_ykvROvv0-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="wAPQZnwlaJf_ykvROvv0-3" target="KJewuH6JOESfiElqel58-16">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="wAPQZnwlaJf_ykvROvv0-3" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/security/blockchain_security_service.svg;" vertex="1" parent="1">
+          <mxGeometry x="470" y="-30" width="60" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
