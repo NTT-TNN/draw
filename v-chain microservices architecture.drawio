@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-20T09:45:19.352Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="boX3FVJxhxismc0tirpk" version="12.4.3" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2019-12-20T10:05:16.906Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="a9k10eVpi5uz9s_X3WRB" version="12.4.3" type="github" pages="2">
   <diagram id="S9bAF8Y2xewPEpYPeAAs" name="architecture">
-    <mxGraphModel dx="1379" dy="1922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="932" dy="1659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -34,7 +34,7 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="c5t16O94_06bRo73200G-5" value="App&lt;br&gt;Service" style="shape=hexagon;html=1;whiteSpace=wrap;perimeter=hexagonPerimeter;rounded=0;size=0.2857142857142857;" parent="1" vertex="1">
-          <mxGeometry x="390" y="95" width="70" height="60" as="geometry"/>
+          <mxGeometry x="360" y="95" width="70" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="KJewuH6JOESfiElqel58-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="c5t16O94_06bRo73200G-6" target="KJewuH6JOESfiElqel58-2" edge="1">
           <mxGeometry relative="1" as="geometry"/>
@@ -82,7 +82,7 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="w7oFq4WGmwiV1G5CJnqy-2" value="App front-end" style="shape=hexagon;html=1;whiteSpace=wrap;perimeter=hexagonPerimeter;rounded=0;size=0.2857142857142857;" vertex="1" parent="1">
-          <mxGeometry x="90" y="54" width="70" height="60" as="geometry"/>
+          <mxGeometry x="45" y="-0.8200000000000003" width="70" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
