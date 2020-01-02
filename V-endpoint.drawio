@@ -1,14 +1,11 @@
-<mxfile host="www.draw.io" modified="2020-01-02T08:15:48.956Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="9ZyG_SRK0tDvMI7SDeeV" version="12.4.8" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2020-01-02T08:16:12.929Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="kKq5Go1SAAyBOd5wd12c" version="12.4.8" type="github" pages="3">
   <diagram id="i6vFmQsRjT_vgaygAgDD" name="Page-1">
     <mxGraphModel dx="932" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
         <mxCell id="681FL828cPBjvCGzYPSx-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="190" y="110" width="520" height="330" as="geometry"/>
-        </mxCell>
-        <mxCell id="681FL828cPBjvCGzYPSx-14" value="V-endpoint" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="479.5" y="411" width="70" height="20" as="geometry"/>
+          <mxGeometry x="170" y="110" width="540" height="330" as="geometry"/>
         </mxCell>
         <mxCell id="681FL828cPBjvCGzYPSx-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="126" width="232" height="60" as="geometry"/>
@@ -25,7 +22,7 @@
         <mxCell id="681FL828cPBjvCGzYPSx-44" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;entryX=0.013;entryY=0.455;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="681FL828cPBjvCGzYPSx-15" target="681FL828cPBjvCGzYPSx-24" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="681FL828cPBjvCGzYPSx-23" value="Kafka" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="681FL828cPBjvCGzYPSx-23" value="Queue" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="320" y="141" width="95" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="681FL828cPBjvCGzYPSx-48" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="681FL828cPBjvCGzYPSx-24" target="681FL828cPBjvCGzYPSx-25" edge="1">
@@ -54,7 +51,7 @@
         <mxCell id="681FL828cPBjvCGzYPSx-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="210" width="232" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="681FL828cPBjvCGzYPSx-30" value="Kafka" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="681FL828cPBjvCGzYPSx-30" value="Queue" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="320" y="225" width="95" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="681FL828cPBjvCGzYPSx-46" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="681FL828cPBjvCGzYPSx-31" target="681FL828cPBjvCGzYPSx-24" edge="1">
@@ -63,7 +60,7 @@
         <mxCell id="681FL828cPBjvCGzYPSx-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="290" width="232" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="681FL828cPBjvCGzYPSx-33" value="Kafka" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="681FL828cPBjvCGzYPSx-33" value="Queue" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="320" y="306" width="98" height="28" as="geometry"/>
         </mxCell>
         <mxCell id="681FL828cPBjvCGzYPSx-47" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;entryX=0;entryY=0.545;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="681FL828cPBjvCGzYPSx-34" target="681FL828cPBjvCGzYPSx-24" edge="1">
