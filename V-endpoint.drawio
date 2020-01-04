@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-04T08:16:10.905Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="COFK3tHqSBVBkgQR-XwZ" version="12.4.8" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2020-01-04T08:18:01.632Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="a0KmBHRVNBVQFYcEEmF4" version="12.4.8" type="github" pages="4">
   <diagram id="i6vFmQsRjT_vgaygAgDD" name="architure">
     <mxGraphModel dx="932" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
@@ -302,7 +302,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LK6vmR28ekfOhLIxPmtO" name="FabricNew">
-    <mxGraphModel dx="1864" dy="970" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1864" dy="872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="Dkncs6LlACwSyMXHXGIh-0"/>
         <mxCell id="Dkncs6LlACwSyMXHXGIh-1" parent="Dkncs6LlACwSyMXHXGIh-0"/>
@@ -432,19 +432,19 @@
         <mxCell id="ZUiajCPOBH6P4Yx6ks1u-59" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="Dkncs6LlACwSyMXHXGIh-1" source="ZUiajCPOBH6P4Yx6ks1u-56" target="ZUiajCPOBH6P4Yx6ks1u-35">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="ZUiajCPOBH6P4Yx6ks1u-56" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Certificate&lt;br&gt;Authority1&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="Dkncs6LlACwSyMXHXGIh-1">
+        <mxCell id="ZUiajCPOBH6P4Yx6ks1u-56" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Org1&lt;br&gt;Certificate&lt;br&gt;Authority&amp;nbsp;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="Dkncs6LlACwSyMXHXGIh-1">
           <mxGeometry x="519" y="110" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="ZUiajCPOBH6P4Yx6ks1u-61" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="Dkncs6LlACwSyMXHXGIh-1" source="ZUiajCPOBH6P4Yx6ks1u-60" target="ZUiajCPOBH6P4Yx6ks1u-11">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="ZUiajCPOBH6P4Yx6ks1u-60" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Certificate&lt;br&gt;Authority1&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="Dkncs6LlACwSyMXHXGIh-1">
+        <mxCell id="ZUiajCPOBH6P4Yx6ks1u-60" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Org2&lt;br&gt;Certificate&lt;br&gt;Authority&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="Dkncs6LlACwSyMXHXGIh-1">
           <mxGeometry x="519" y="660" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="ZUiajCPOBH6P4Yx6ks1u-64" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="Dkncs6LlACwSyMXHXGIh-1" source="ZUiajCPOBH6P4Yx6ks1u-62" target="ZUiajCPOBH6P4Yx6ks1u-55">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="ZUiajCPOBH6P4Yx6ks1u-62" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Certificate&lt;br&gt;Authority&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="Dkncs6LlACwSyMXHXGIh-1">
+        <mxCell id="ZUiajCPOBH6P4Yx6ks1u-62" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Ordering&lt;br&gt;Certificate&lt;br&gt;Authority&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="Dkncs6LlACwSyMXHXGIh-1">
           <mxGeometry x="1010" y="377" width="120" height="60" as="geometry"/>
         </mxCell>
       </root>
