@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-06T03:07:58.560Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="9upnUYnRmke7RUtiM36W" version="12.6.5" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2020-02-06T03:08:08.136Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="VPvBeQtrALDsDPzgJXaM" version="12.6.5" type="github" pages="3">
   <diagram id="nksvuGeWxwrTVunCKfY6" name="useCase">
     <mxGraphModel dx="932" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -68,7 +68,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bHbo3EqNhxjC3z59tRR1" name="Flow">
-    <mxGraphModel dx="1331" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1331" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="XoArLasG3t8UCexi_esO-0"/>
         <mxCell id="XoArLasG3t8UCexi_esO-1" parent="XoArLasG3t8UCexi_esO-0"/>
@@ -84,8 +84,8 @@
         <mxCell id="F9qyHLBw6WuoYQ3u9pmd-1" value="Generate ID" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;" parent="XoArLasG3t8UCexi_esO-1" vertex="1">
           <mxGeometry x="190" y="120" width="60" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="F9qyHLBw6WuoYQ3u9pmd-5" value="Brand" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="XoArLasG3t8UCexi_esO-1" vertex="1">
-          <mxGeometry x="195" y="10" width="50" height="20" as="geometry"/>
+        <mxCell id="F9qyHLBw6WuoYQ3u9pmd-5" value="Blockchain" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="XoArLasG3t8UCexi_esO-1" vertex="1">
+          <mxGeometry x="185" y="10" width="70" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="F9qyHLBw6WuoYQ3u9pmd-6" value="Producer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="XoArLasG3t8UCexi_esO-1" vertex="1">
           <mxGeometry x="380" y="10" width="60" height="20" as="geometry"/>
