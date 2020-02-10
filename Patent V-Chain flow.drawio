@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-10T10:13:01.657Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="p31lYD-zEFTm_FOHMNGU" version="12.6.6" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2020-02-10T10:39:48.306Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="0HtZt8H3vmI_UJ8hzAtj" version="12.6.6" type="github" pages="2">
   <diagram id="jUSu_pGqqmsOer4zh4F_" name="architure">
     <mxGraphModel dx="1331" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="D2G3VPiOAvA9YFe5oN5B-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="D2G3VPiOAvA9YFe5oN5B-5" target="D2G3VPiOAvA9YFe5oN5B-15" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="D2G3VPiOAvA9YFe5oN5B-5" value="Parse Assets" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="D2G3VPiOAvA9YFe5oN5B-5" value="Parse&amp;nbsp;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0.85) ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Propertes&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="260" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="D2G3VPiOAvA9YFe5oN5B-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="D2G3VPiOAvA9YFe5oN5B-13" target="D2G3VPiOAvA9YFe5oN5B-15" edge="1">
@@ -171,7 +171,7 @@
         <mxCell id="QIRCqEkf0iNC1RMw-2kG-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="NvMk8hjKI5THa1jIAd9J-1" source="QIRCqEkf0iNC1RMw-2kG-7" target="QIRCqEkf0iNC1RMw-2kG-12">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="QIRCqEkf0iNC1RMw-2kG-7" value="Parse Assets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="NvMk8hjKI5THa1jIAd9J-1">
+        <mxCell id="QIRCqEkf0iNC1RMw-2kG-7" value="Parse&amp;nbsp;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0.85) ; font-family: , , &amp;#34;segoe ui&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Propertes&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="NvMk8hjKI5THa1jIAd9J-1">
           <mxGeometry x="460" y="260" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="QIRCqEkf0iNC1RMw-2kG-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="NvMk8hjKI5THa1jIAd9J-1" source="QIRCqEkf0iNC1RMw-2kG-9" target="QIRCqEkf0iNC1RMw-2kG-12">
