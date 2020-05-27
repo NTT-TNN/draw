@@ -1,1 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2020-05-27T03:13:48.531Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="SKU9WML0T-Ib4CD683Au" version="13.1.3" type="github"><diagram id="d3dWc1vYgQZ1uq_6BBvk" name="Page-1">ddHNEoIgEADgp+GuYJpnM7t08tCZkU2YQddBGq2nTwfNGOvCLN8uLD+EZc1YGN7JKwrQhAZiJOxEKE2jeBpneDqIkoOD2ijhKNygVC9YMFj0oQT0XqFF1FZ1PlbYtlBZz7gxOPhld9R+147XsIOy4nqvNyWsdHqkyeYXULVcO4dx6jINX4uXm/SSCxy+iOWEZQbRuqgZM9Dz263v4tad/2Q/BzPQ2h8LpmDbe5p4H8TyNw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-05-27T03:18:33.402Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="nMGIELstfQFjwXfirGtl" version="13.1.3" type="github">
+  <diagram id="d3dWc1vYgQZ1uq_6BBvk" name="Page-1">
+    <mxGraphModel dx="946" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tX2bEhGWpRGRPOH0ld4q-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.511;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tX2bEhGWpRGRPOH0ld4q-2" target="tX2bEhGWpRGRPOH0ld4q-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="265" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tX2bEhGWpRGRPOH0ld4q-2" value="Clone repo về" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="109" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tX2bEhGWpRGRPOH0ld4q-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tX2bEhGWpRGRPOH0ld4q-4" target="tX2bEhGWpRGRPOH0ld4q-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tX2bEhGWpRGRPOH0ld4q-4" value="push lên gitlab của mình" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="210" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tX2bEhGWpRGRPOH0ld4q-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tX2bEhGWpRGRPOH0ld4q-5" target="tX2bEhGWpRGRPOH0ld4q-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tX2bEhGWpRGRPOH0ld4q-5" value="Tạo config.yml" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="270" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tX2bEhGWpRGRPOH0ld4q-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tX2bEhGWpRGRPOH0ld4q-7" target="tX2bEhGWpRGRPOH0ld4q-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tX2bEhGWpRGRPOH0ld4q-7" value="Add admin folder" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="330" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tX2bEhGWpRGRPOH0ld4q-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tX2bEhGWpRGRPOH0ld4q-9" target="tX2bEhGWpRGRPOH0ld4q-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tX2bEhGWpRGRPOH0ld4q-9" value="Test cms" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="390" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tX2bEhGWpRGRPOH0ld4q-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tX2bEhGWpRGRPOH0ld4q-11" target="tX2bEhGWpRGRPOH0ld4q-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tX2bEhGWpRGRPOH0ld4q-11" value="push lên gitlab.datochain.com" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="440" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tX2bEhGWpRGRPOH0ld4q-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tX2bEhGWpRGRPOH0ld4q-13" target="tX2bEhGWpRGRPOH0ld4q-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tX2bEhGWpRGRPOH0ld4q-13" value="tạo db file" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="490" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tX2bEhGWpRGRPOH0ld4q-15" value="sử dụng templates tạo sites và test" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="490" width="200" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
