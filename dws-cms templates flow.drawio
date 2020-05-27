@@ -1,12 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2020-05-27T03:18:33.402Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="nMGIELstfQFjwXfirGtl" version="13.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-27T07:23:32.651Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="HEBPDLROTuWNgHfOsSN6" version="13.1.3" type="github">
   <diagram id="d3dWc1vYgQZ1uq_6BBvk" name="Page-1">
-    <mxGraphModel dx="946" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="788" dy="396" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="tX2bEhGWpRGRPOH0ld4q-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.511;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tX2bEhGWpRGRPOH0ld4q-2" target="tX2bEhGWpRGRPOH0ld4q-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="265" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="265" y="128" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="tX2bEhGWpRGRPOH0ld4q-2" value="Clone repo về" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
